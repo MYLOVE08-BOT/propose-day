@@ -5,7 +5,7 @@ const febHolidays = [
     "I promise you khudse bhi zyada dhyaan rkhuga🤩",
     "Shadi bhi aapse karuga 🤨",
     "Bhaut saara hug cuddle kisses krni hai aapko ❤",
-    "Maine shiddat se chaha hai tumhe, I love you❤️",
+    "Maine shiddat se chaha hai aapko, I love you❤️",
     "You're my everything ✔",
     "You are my soulmate ✨💕",
     "And of course... wait baby.....",
